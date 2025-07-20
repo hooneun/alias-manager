@@ -19,7 +19,7 @@ Alias Manager는 셸 히스토리 파일들(`.bash_history`, `.zsh_history` 등)
 
 ```bash
 # 설치
-go install github.com/your-username/alias-manager@latest
+go install github.com/hooneun/alias-manager@latest
 
 # 분석 및 별칭 제안
 alias-manager analyze
